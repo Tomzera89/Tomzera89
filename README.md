@@ -1,10 +1,1 @@
-## Olá!!! Eu sou o Everton Silva ✌️
-- 🔭 No momento ainda não trabalho na área de programação.
-- 🌱 Estudando Data Science na  FIAP.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tomzera89&locale=pt-br" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomzera89&layout=compact&langs_count=8&card_width=320&locale=pt-br" />
-</a>
+Estudante de Ciência de Dados na FIAP com foco em análise exploratória, modelagem estatística e automação de processos. Conhecimento sólido em Python e SQL desenvolvido através de projetos acadêmicos e cursos complementares. Busco oportunidade para aplicar técnicas de Machine Learning em problemas reais de negócio.
